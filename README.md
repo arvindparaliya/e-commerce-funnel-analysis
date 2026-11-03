@@ -1,10 +1,10 @@
-# E-commerce Funnel Analysis (October 2019)
+# E-commerce Funnel Analysis
 
 Where do shoppers drop off before buying, and which product category is worth investigating first?
 
 **Dashboard:** https://public.tableau.com/views/E-com-funnel-analysis/E-commerceFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-**Notebook:** [notebook/e-com-funnel-analysis.ipynb](notebook/e-com-funnel-analysis.ipynb)
+**Notebook:** [notebook/ecommerce-funnel-analysis.ipynb](notebook/ecommerce-funnel-analysis.ipynb)
 
 **Data:** Kaggle, "E-commerce behavior data from multi-category store" (October 2019 file, 42.4M events)
 
@@ -74,7 +74,7 @@ Returns data (for the guardrail), cost and margin, traffic source, category labe
 
 ## Repository contents
 
-- `notebook/e-com-funnel-analysis.ipynb` - the full analysis, from loading to the experiment design
+- `notebook/ecommerce-funnel-analysis.ipynb` - the full analysis, from loading to the experiment design
 - `data/funnel.csv`, `data/opportunity.csv`, `data/test_plan.csv` - small summary tables used by the dashboard
 - `dashboard/dashboard-screenshot.png` - screenshot of the Tableau dashboard
 
