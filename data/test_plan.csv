@@ -1,0 +1,7 @@
+item,detail
+Hypothesis,Size guide on apparel pages raises 7-day purchase share
+Primary metric,Share of apparel viewers who buy within 7 days (baseline 1.74%)
+Guardrail,Share of orders returned (not in our data)
+Smallest lift to detect,0.25 points (1.74% to 1.99%)
+Users per group,"about 45,917"
+Status,"Planned, NOT run. No result."

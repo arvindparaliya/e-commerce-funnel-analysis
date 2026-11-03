@@ -1,0 +1,12 @@
+category,viewers,converters,rate_%,extra_buyers_if_baseline,note
+apparel,216093,3769,1.74,16133,"Scenario, labeled products only, categories overlap"
+furniture,134881,3427,2.54,8996,"Scenario, labeled products only, categories overlap"
+auto,137934,5718,4.15,6986,"Scenario, labeled products only, categories overlap"
+computers,199885,12010,6.01,6399,"Scenario, labeled products only, categories overlap"
+appliances,450824,35909,7.97,5612,"Scenario, labeled products only, categories overlap"
+kids,79871,2715,3.4,4641,"Scenario, labeled products only, categories overlap"
+construction,82727,3979,4.81,3640,"Scenario, labeled products only, categories overlap"
+accessories,41837,847,2.02,3006,"Scenario, labeled products only, categories overlap"
+sport,33275,627,1.88,2438,"Scenario, labeled products only, categories overlap"
+country_yard,3361,48,1.43,262,"Scenario, labeled products only, categories overlap"
+electronics,1404110,144934,10.32,0,"Scenario, labeled products only, categories overlap"

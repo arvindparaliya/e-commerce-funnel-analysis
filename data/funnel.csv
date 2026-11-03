@@ -1,0 +1,6 @@
+metric,value,basis
+Cohort users (first view before Oct 25),2559699.0,7-day cohort
+Bought within 7 days of first view,235860.0,7-day cohort
+7-day conversion rate %,9.21,7-day cohort
+Buyers who used the cart (all of October),202754.0,"All October, no 7-day rule"
+Buyers who skipped the cart (all of October),144302.0,"All October, no 7-day rule"
